@@ -1,0 +1,25 @@
+[{
+        "id": 1,
+        "nombre": "Steven",
+        "email": "gsteven.barrantes@gmail.com",
+        "estado": true
+    },
+    {
+        "id": 2,
+        "nombre": "Anselmo",
+        "email": "barrantes@gmail.com",
+        "estado": false
+    },
+    {
+        "id": 3,
+        "nombre": "Piero",
+        "email": "gbantes@gmail.com",
+        "estado": true
+    },
+    {
+        "id": 4,
+        "nombre": "Policiano",
+        "email": "Policiano@gmail.com",
+        "estado": true
+    }
+]
